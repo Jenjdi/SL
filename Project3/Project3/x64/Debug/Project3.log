@@ -1,0 +1,5 @@
+﻿  SLT.c
+C:\Users\Zhang\source\repos\Project3\SLT.c(71,8): warning C4047: “=”:“SLT **”与“SLT *”的间接级别不同
+  test.c
+  正在生成代码...
+  Project3.vcxproj -> C:\Users\Zhang\source\repos\Project3\x64\Debug\Project3.exe

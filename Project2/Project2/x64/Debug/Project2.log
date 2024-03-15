@@ -1,0 +1,21 @@
+﻿  1.c
+C:\Users\Zhang\source\repos\Project2\Project2\1.c(3,9): warning C4047: “函数”:“SL *”与“SL **”的间接级别不同
+C:\Users\Zhang\source\repos\Project2\Project2\1.c(3,9): warning C4024: “SLinit”: 形参和实参 1 的类型不同
+C:\Users\Zhang\source\repos\Project2\Project2\1.c(4,13): warning C4047: “函数”:“SL *”与“SL **”的间接级别不同
+C:\Users\Zhang\source\repos\Project2\Project2\1.c(4,13): warning C4024: “SLpushback”: 形参和实参 1 的类型不同
+C:\Users\Zhang\source\repos\Project2\Project2\1.c(5,13): warning C4047: “函数”:“SL *”与“SL **”的间接级别不同
+C:\Users\Zhang\source\repos\Project2\Project2\1.c(5,13): warning C4024: “SLpushback”: 形参和实参 1 的类型不同
+C:\Users\Zhang\source\repos\Project2\Project2\1.c(6,13): warning C4047: “函数”:“SL *”与“SL **”的间接级别不同
+C:\Users\Zhang\source\repos\Project2\Project2\1.c(6,13): warning C4024: “SLpushback”: 形参和实参 1 的类型不同
+C:\Users\Zhang\source\repos\Project2\Project2\1.c(7,11): warning C4047: “函数”:“SL *”与“SL **”的间接级别不同
+C:\Users\Zhang\source\repos\Project2\Project2\1.c(7,11): warning C4024: “SLinsert”: 形参和实参 1 的类型不同
+C:\Users\Zhang\source\repos\Project2\Project2\1.c(7,16): warning C4020: “SLinsert”: 实参太多
+C:\Users\Zhang\source\repos\Project2\Project2\1.c(8,11): warning C4047: “函数”:“SL *”与“SL **”的间接级别不同
+C:\Users\Zhang\source\repos\Project2\Project2\1.c(8,11): warning C4024: “SLinsert”: 形参和实参 1 的类型不同
+C:\Users\Zhang\source\repos\Project2\Project2\1.c(8,16): warning C4020: “SLinsert”: 实参太多
+C:\Users\Zhang\source\repos\Project2\Project2\1.c(9,11): warning C4047: “函数”:“SL *”与“SL **”的间接级别不同
+C:\Users\Zhang\source\repos\Project2\Project2\1.c(9,11): warning C4024: “SLinsert”: 形参和实参 1 的类型不同
+C:\Users\Zhang\source\repos\Project2\Project2\1.c(9,16): warning C4020: “SLinsert”: 实参太多
+C:\Users\Zhang\source\repos\Project2\Project2\1.c(10,10): warning C4047: “函数”:“SL *”与“SL **”的间接级别不同
+C:\Users\Zhang\source\repos\Project2\Project2\1.c(10,10): warning C4024: “SLprint”: 形参和实参 1 的类型不同
+  Project2.vcxproj -> C:\Users\Zhang\source\repos\Project2\x64\Debug\Project2.exe
