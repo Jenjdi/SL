@@ -6,7 +6,7 @@ void SLinit(SL* ps) {
 void SLexpand(SL* ps) {
 	if (ps->capacity == ps->size) {
 		int newCapacity = ps->capacity == 0 ? 4 : 2 * ps->capacity;
-		int* tmp = (int*)realloc(ps->arr, newCapacity * sizeof(int));
+		Datatype* tmp = (Datatype*)realloc(ps->arr, newCapacity * sizeof(int));
 		if (tmp == NULL) {
 			perror("realloc failed");
 			exit(1);
