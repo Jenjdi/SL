@@ -1,5 +1,4 @@
 ﻿  SLT.c
-C:\Users\Zhang\source\repos\Project3\SLT.c(71,8): warning C4047: “=”:“SLT **”与“SLT *”的间接级别不同
-  test.c
-  正在生成代码...
+C:\Users\Zhang\source\repos\Project3\SLT.c(73,14): warning C4047: “函数”:“SLT **”与“SLT *”的间接级别不同
+C:\Users\Zhang\source\repos\Project3\SLT.c(73,14): warning C4024: “Erasefront”: 形参和实参 1 的类型不同
   Project3.vcxproj -> C:\Users\Zhang\source\repos\Project3\x64\Debug\Project3.exe
