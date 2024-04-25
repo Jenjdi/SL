@@ -1,4 +1,4 @@
-#include<stdio.h>
+//#include<stdio.h>
 void Swap(int* arr1, int* arr2) {
 	int temp = *arr1;
 	*arr1 = *arr2;
@@ -79,10 +79,10 @@ void print(int* arr,int n) {
 	}
 	return;
 }
-int main() {
-	int arr[] = { 121,64,5,654,845,45,65,45,213 };
-	Qsort(&arr, 0, 9);
-	for (int i = 0; i < 9; i++) {
-		printf("%d ", arr[i]);
-	}
-}
+//int main() {
+//	int arr[] = { 121,64,5,654,845,45,65,45,213 };
+//	Qsort(&arr, 0, 9);
+//	for (int i = 0; i < 9; i++) {
+//		printf("%d ", arr[i]);
+//	}
+//}
